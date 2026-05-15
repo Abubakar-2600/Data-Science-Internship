@@ -78,4 +78,4 @@ This repository contains a collection of data science and machine learning proje
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/data-science-internship.git
+[   git clone https://github.com/YOUR_USERNAME/data-science-internship.git](https://github.com/Abubakar-2600/Data-Science-Internship-Assignment-01.git)
