@@ -1,5 +1,8 @@
 # End-to-End Data Science & Machine Learning Projects
 
+## 👨‍💻 Author
+Abubakar
+
 ## 📌 Overview
 This repository contains a collection of data science and machine learning projects completed as part of my internship. The projects cover data analysis, visualization, classification, and regression techniques using Python.
 
