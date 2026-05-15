@@ -74,4 +74,8 @@ This repository contains a collection of data science and machine learning proje
 - bank.csv
 
 ---
+## 🚀 How to Run
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/data-science-internship.git
